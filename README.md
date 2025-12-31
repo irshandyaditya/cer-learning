@@ -1,3 +1,3 @@
 # cer-learning
 
-# this repo for my undergraduate thesis named cer learning app
+# This repo for my undergraduate thesis name as CER Learning
